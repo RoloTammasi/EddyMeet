@@ -710,6 +710,25 @@ FileModTime:1252262808
 
 %BeginFont
 Handler:DirectoryHandler
+FontType:TrueType
+FontName:ModernBoldOblique
+FamilyName:Modern
+StyleName: Bold Oblique
+MenuName:Modern
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Modern  Bold Oblique
+WritingScript:Roman
+OutlineFileName:\Modern Bold Oblique.ttf
+DataFormat:sfntData
+FileLength:71602
+FileModTime:1524511888
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
 FontType:Type1
 FontName:MyriadPro-Bold
 FamilyName:Myriad Pro
